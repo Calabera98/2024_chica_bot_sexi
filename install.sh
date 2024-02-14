@@ -119,7 +119,7 @@ if npm install -g yarn 2>&1 >/dev/null | grep -E -i -q '(command not found|unabl
 error=$(npm install -g yarn 2>&1 >/dev/null)
 echo -e "\033[0;31mError: $error\033[0m" 
 echo -e "\033[0;34mNo se pudo instalar Yarn. Verifique su conexión a Internet e inténtelo de nuevo. Si el error continúa, instale de forma manual!!\033[0m" 
-echo -e "\033[01;33mpkg install git -y\npkg install nodejs -y\npkg install ffmpeg -y\npkg install imagemagick -y\npkg install -y yarn\ngit clone https://github.com/elrebelde21/NovaBot-MD\ncd NovaBot-MD\nyarn install\nnpm install\nnpm start\033[0m"
+echo -e "\033[01;33mpkg install git -y\npkg install nodejs -y\npkg install ffmpeg -y\npkg install imagemagick -y\npkg install -y yarn\nhttps://github.com/Calabera98/2024_chica_bot_sexi\ncd 2024_chica_bot_sexi\nyarn install\nnpm install\nnpm start\033[0m"
 exit 1
 else
 echo -e "\033[01;33m𝙻𝙾𝚂 𝙿𝙰𝚀𝚄𝙴𝚃𝙴𝚂 𝙳𝙴 𝙸𝙽𝚂𝚃𝙰𝙻𝙰𝙲𝙸𝙾́𝙽 𝚈𝙰 𝙵𝚄𝙴𝚁𝙾𝙽 𝙸𝙽𝚂𝚃𝙰𝙻𝙰𝙽𝙳𝙾 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙰𝙼𝙴𝙽𝚃𝙴\033[0m"
@@ -228,19 +228,19 @@ clear
 echo -e ""
 
 echo -e "\e[31m
-┏╍┅┅┅╍⪻ 𝐍𝐨𝐯𝐚𝐁𝐨𝐭-𝐌𝐃 ⪼┅┅┅┅┅┓
-┋❥ 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 : elrebelde21
-┋❥ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 : www.youtube.com/@elrebelde.21
-┋❥ 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : www.facebook.com/elrebelde21
-┋❥ 𝐆𝐢𝐭𝐇𝐮𝐛 : github.com/elrebelde21
-┋❥ 𝐌𝐞𝐫𝐜𝐚𝐝𝐨 𝐩𝐚𝐠𝐨 : 0000003100059201491917
+┏╍┅┅┅╍⪻ Chica_𝐁𝐨𝐭-𝐌𝐃 ⪼┅┅┅┅┅┓
+┋❥ 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 : INFORMATIC SECURIY
+┋❥ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 : https://www.youtube.com/@informaticsecurity5309
+┋❥ 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : Por el momento no esta disponible
+┋❥ 𝐆𝐢𝐭𝐇𝐮𝐛 : Si quiere el bot contactese con el creador
+┋❥ 𝐌𝐞𝐫𝐜𝐚𝐝𝐨 𝐩𝐚𝐠𝐨 yape: 926328073
 ┋┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
-┋❥ 𝐍𝐨𝐬 𝐨𝐥𝐯𝐢𝐝𝐞𝐧 𝐝𝐞 𝐚𝐩𝐨𝐲𝐚𝐫 𝐧𝐮𝐞𝐬𝐭𝐫𝐨 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨 𝐨𝐟𝐢𝐜𝐢𝐚𝐥 
-┋❥ 𝐜𝐨𝐧 𝐮𝐧𝐚 𝐞𝐬𝐭𝐫𝐞𝐥𝐥𝐢𝐭𝐚𝐬 🌟, 𝐨 𝐬𝐢 𝐝𝐞𝐬𝐞𝐚 𝐡𝐚𝐜𝐞𝐫 𝐮𝐧𝐚 𝐝𝐨𝐧𝐚𝐜𝐢𝐨𝐧 
+┋❥ No olviden subscribirse a mi canal de youtube 
+┋❥ dale like y susbcribete🌟, 𝐨 𝐬𝐢 𝐝𝐞𝐬𝐞𝐚 𝐡𝐚𝐜𝐞𝐫 𝐮𝐧𝐚 𝐝𝐨𝐧𝐚𝐜𝐢𝐨𝐧 
 ┋❥ 𝐯𝐨𝐥𝐮𝐧𝐭𝐚𝐫𝐢𝐚 𝐩𝐚𝐫𝐚 𝐚𝐲𝐮𝐝𝐚𝐫 𝐚 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐚𝐫 𝐜𝐨𝐧 𝐞𝐬𝐭𝐞 𝐩𝐫𝐨𝐲𝐞𝐜𝐭𝐨
-┋❥ 𝐥𝐨𝐬 𝐩𝐮𝐞𝐝𝐞 𝐡𝐚𝐜𝐞𝐫 𝐩𝐨𝐫 𝐧𝐮𝐞𝐬𝐭𝐫𝐨 𝐦𝐞𝐫𝐜𝐚𝐝𝐨 𝐩𝐚𝐠𝐨 ☺. 
+┋❥ 𝐥𝐨𝐬 𝐩𝐮𝐞𝐝𝐞 𝐡𝐚𝐜𝐞𝐫 por yape ☺. 
 ┋┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
-┋❥ 𝐍𝐎𝐓𝐀 : 𝐄𝐥 𝐛𝐨𝐭 𝐬𝐞 𝐚𝐠𝐫𝐞𝐠𝐚𝐫 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐞 𝐚𝐥 𝐠𝐫𝐮𝐩𝐨 𝐭𝐞𝐬𝐭 𝐝𝐨𝐧𝐝𝐞 𝐚𝐡𝐲 𝐬𝐞 𝐝𝐚𝐫 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐜𝐢𝐨𝐧 𝐬𝐨𝐛𝐫𝐞 𝐞𝐥 𝐛𝐨𝐭 𝐲 𝐬𝐞 𝐡𝐚𝐜𝐞𝐫 𝐩𝐫𝐮𝐞𝐛𝐚 𝐞𝐭𝐜.
+┋❥ .
 ┗┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┛
 
 　　｡ﾟﾟ･｡･ﾟﾟ｡
