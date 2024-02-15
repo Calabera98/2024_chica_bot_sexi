@@ -678,7 +678,7 @@ conn.sendAudio(m.chat, vn, m)}
 if (budy.startsWith(`Enano`)) {
 const vn = './media/gaspi14.mp3'
 conn.sendAudio(m.chat, vn, m)}
-if (budy.startsWith(`Buenas noches`)) {
+if (budy.startsWith(`Buenas noches`)|| budy.startsWith(`buenas noches`)) {
 const vn = './media/gaspi15.mp3'
 conn.sendAudio(m.chat, vn, m)}
 if (budy.startsWith(`Peruano`)) {
